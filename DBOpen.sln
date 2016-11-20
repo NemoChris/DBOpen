@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBOpen", "DBOpen\DBOpen.csproj", "{5D176BC3-CF86-4FDD-A3B3-CCE4F09B003F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBOpen.Test", "DBOpen.Test\DBOpen.Test.csproj", "{EC5EDDD8-A5FF-4D3E-AC84-CBE47402D9E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5D176BC3-CF86-4FDD-A3B3-CCE4F09B003F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D176BC3-CF86-4FDD-A3B3-CCE4F09B003F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D176BC3-CF86-4FDD-A3B3-CCE4F09B003F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC5EDDD8-A5FF-4D3E-AC84-CBE47402D9E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5EDDD8-A5FF-4D3E-AC84-CBE47402D9E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5EDDD8-A5FF-4D3E-AC84-CBE47402D9E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5EDDD8-A5FF-4D3E-AC84-CBE47402D9E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

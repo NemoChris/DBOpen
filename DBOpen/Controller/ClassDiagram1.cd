@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DBOpen.Controller.BaseController" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIABAAAAAAAgAAAAABACAAAA=</HashCode>
+      <FileName>Controller\BaseController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBOpen.Controller.MySqlController" Collapsed="true">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAMAAAAAAAAAACAAAAAAAAAEACAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Controller\MySqlController.cs</FileName>
+      <NewMemberFileName>Controller\SqlController.cs</NewMemberFileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DBOpen.Controller.ControllerFactory" Collapsed="true">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\ControllerFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBOpen.Controller.SqlController" Collapsed="true">
+    <Position X="7" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAMAAAAAAAAAACAAAAAAAAAEACAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Controller\SqlController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="DBOpen.Controller.IController">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAMAAAAAAAAAAAAAAAAAAAAEACAgAAAAABAAAAAA=</HashCode>
+      <FileName>Controller\IController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

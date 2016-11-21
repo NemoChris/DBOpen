@@ -21,7 +21,7 @@ First you need to configure web.config to operate specified database.This is ill
 
 Configuration DBOpenControllerName to operate specified database.It's value can only be Sql or MySql.Here we configure SqlServer as a database for our operations.
 
-## Step2 Create SqlController
+## Step2 Create SqlController and execute query
 
 Next we need to create a SqlController to operate the database.This is illustrated by the following code snippet:
     
